@@ -2,3 +2,6 @@
 
 > All learning begins when our comfortable ideas turn out to be inadequate.  
 **John Dewey**
+
+* [Personality](/mbti)
+
