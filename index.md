@@ -1,4 +1,4 @@
 ![banner](/photos/banner.png)
 
-> You become what you understand.  
-> **Søren Kierkegaard**
+> All learning begins when our comfortable ideas turn out to be inadequate.  
+**John Dewey**
