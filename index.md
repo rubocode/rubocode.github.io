@@ -3,8 +3,8 @@
 
 ![banner](/photos/banner.png)
 
-> All learning begins when our comfortable ideas turn out to be inadequate.  
-**John Dewey**
+> As long as you live, keep learning how to live.  
+> **Seneca**
 
 * [Personality](/mbti)
 * [Programming](/programming)
