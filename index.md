@@ -4,4 +4,4 @@
 **John Dewey**
 
 * [Personality](/mbti)
-
+* [Quotes](https://github.com/rubocode/quotes/)
