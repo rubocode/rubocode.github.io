@@ -8,4 +8,4 @@
 
 * [Personality](/mbti)
 * [Programming](/programming)
-* [Quotes](https://github.com/rubocode/quotes/)
+* [Strategy](/strategy)
