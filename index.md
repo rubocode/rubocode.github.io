@@ -7,6 +7,6 @@
 > As long as you live, keep learning how to live.  
 > **Seneca**
 
+* [Computing](/computing)
 * [Personality](/mbti)
-* [Programming](/programming)
 * [Strategy](/strategy)
