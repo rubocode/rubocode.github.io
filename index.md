@@ -8,5 +8,6 @@
 > **Seneca**
 
 * [Computing](/computing)
+* [Governance](/governance)
 * [Personality](/mbti)
 * [Strategy](/strategy)
