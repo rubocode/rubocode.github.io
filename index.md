@@ -1,5 +1,6 @@
 > [profile](/profile)
 > &bull; [blog](/blog)
+> &bull; [ifs](/ifs)
 > &bull; [github](https://github.com/rubocode)
 
 ![banner](/photos/banner.png)
