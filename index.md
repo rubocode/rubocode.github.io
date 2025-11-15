@@ -2,7 +2,7 @@
 > &bull; [blog](/blog)
 > &bull; [ifs](/ifs)
 > &bull; [github](https://github.com/rubocode)
-> &bull; [altOS&tm;](/altOS)
+> &bull; [altOS&trade;](/altOS)
 
 ![banner](/photos/banner.png)
 
