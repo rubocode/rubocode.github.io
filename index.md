@@ -8,8 +8,7 @@
 > As long as you live, keep learning how to live.  
 > **Seneca**
 
-| [altOS&trade;](/altOS) | [iTask&trade;](/iTask) |
-| [cdi&trade;](/cdi) | [wfs&trade;](/wfs) |
+| [altOS&trade;](/altOS) | [cdi&trade;](/cdi) | [iTask&trade;](/iTask) | [wfs&trade;](/wfs) |
 
 * [Governance](/governance) 
 * [Philosophy](/philosophy)
