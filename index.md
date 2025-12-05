@@ -10,7 +10,7 @@
 
 | [altOS&trade;](/altOS) | [cdi&trade;](/cdi) | [iTask&trade;](/iTask) |
 
-* [Governance](/governance) |
+* [Governance](/governance) 
 * [Philosophy](/philosophy)
 * [Psychology](/psychology)
 * [Strategy](/strategy)
