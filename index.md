@@ -10,8 +10,6 @@
 
 | [altOS&trade;](/altOS) | [cdi&trade;](/cdi) | [iTask&trade;](/iTask) | [wfs&trade;](/wfs) |
 
-* [Governance](/governance) 
-* [Library](/library)
 * [Philosophy](/philosophy)
 * [Psychology](/psychology)
 * [Strategy](/strategy)
