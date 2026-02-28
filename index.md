@@ -9,7 +9,6 @@
 > **Seneca**
 
 * [Governance](/governance)
-* [Intelligence](/intelligence)
 * [Philosophy](/philosophy)
 * [Psychology](/psychology)
 * [Strategy](/strategy)
