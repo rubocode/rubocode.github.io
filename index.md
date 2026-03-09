@@ -1,5 +1,6 @@
 > [profile](/profile)
 > &bull; [blog](/blog)
+> &bull; [ifs](/ifs)
 
 ![banner](/photos/banner.png)
 
