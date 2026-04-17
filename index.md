@@ -5,6 +5,6 @@
 > As long as you live, keep learning how to live.  
 > **Seneca**
 
-* [Programming](/programming)
+* [Computing](/computing)
 * [Strategy](/strategy)
 
