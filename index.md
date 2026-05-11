@@ -6,4 +6,5 @@
 > As long as you live, keep learning how to live.  
 > **Seneca**
 
+* [Psychology](/psychology)
 * [Strategy](/strategy)
