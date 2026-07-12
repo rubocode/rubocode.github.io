@@ -1,5 +1,6 @@
 > [profile](/profile)
 > &bull; [blog](/blog)
+> &bull; [vision-lk](/vision-lk)
 
 ![banner](/photos/banner.png)
 
