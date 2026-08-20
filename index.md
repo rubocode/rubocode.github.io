@@ -9,7 +9,7 @@
 > **Seneca**
 
 * [Computing](/computing)
-* [Governance](/governanceß)
+* [Governance](/governance)
 * [Philosophy](/philosophy)
 * [Psychology](/psychology)
 * [Strategy](/strategy)
