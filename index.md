@@ -7,6 +7,8 @@
 > As long as you live, keep learning how to live.  
 > **Seneca**
 
+* [Computing](/computing)
+* [Governance](/governance)
 * [Philosophy](/philosophy)
 * [Psychology](/psychology)
 * [Strategy](/strategy)
