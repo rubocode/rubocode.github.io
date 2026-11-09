@@ -1,4 +1,5 @@
 > [profile](/profile)
+> &bull; [journey](/journey)
 > &bull; [blog](/blog)
 > &bull; [vision-lk](/vision-lk)
 
